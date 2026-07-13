@@ -1,0 +1,61 @@
+{
+  "generatedAt": "2026-07-10T03:24:26.048Z",
+  "model": "gemini-3.1-flash-image",
+  "outputDir": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated",
+  "images": {
+    "mobileFarmAlerts": {
+      "fileName": "mobile-iphone17-farm-alerts.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\mobile-iphone17-farm-alerts.jpg",
+      "relativePath": "assets/images/generated/mobile-iphone17-farm-alerts.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "mobileWeatherUpdates": {
+      "fileName": "mobile-iphone17-weather-updates.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\mobile-iphone17-weather-updates.jpg",
+      "relativePath": "assets/images/generated/mobile-iphone17-weather-updates.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "mobileAiPlantAnalysis": {
+      "fileName": "mobile-iphone17-ai-plant-analysis.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\mobile-iphone17-ai-plant-analysis.jpg",
+      "relativePath": "assets/images/generated/mobile-iphone17-ai-plant-analysis.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "whatPhone": {
+      "fileName": "what-digisaka-phone.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\what-digisaka-phone.jpg",
+      "relativePath": "assets/images/generated/what-digisaka-phone.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "iconMobilePlatform": {
+      "fileName": "what-icon-mobile-platform.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\what-icon-mobile-platform.jpg",
+      "relativePath": "assets/images/generated/what-icon-mobile-platform.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "iconLowCarbonRice": {
+      "fileName": "what-icon-low-carbon-rice.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\what-icon-low-carbon-rice.jpg",
+      "relativePath": "assets/images/generated/what-icon-low-carbon-rice.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "iconSatelliteData": {
+      "fileName": "what-icon-satellite-data.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\what-icon-satellite-data.jpg",
+      "relativePath": "assets/images/generated/what-icon-satellite-data.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "iconGis": {
+      "fileName": "what-icon-gis.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\what-icon-gis.jpg",
+      "relativePath": "assets/images/generated/what-icon-gis.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "iconAwd": {
+      "fileName": "what-icon-awd.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\what-icon-awd.jpg",
+      "relativePath": "assets/images/generated/what-icon-awd.jpg",
+      "mimeType": "image/jpeg"
+    }
+  }
+}

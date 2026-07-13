@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2026-07-10T05:03:17.143Z",
+  "model": "gemini-3.1-flash-image",
+  "outputDir": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated",
+  "images": {
+    "usersBackground": {
+      "fileName": "users-parallax-background.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\users-parallax-background.jpg",
+      "relativePath": "assets/images/generated/users-parallax-background.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "filipinoFarmers": {
+      "fileName": "users-filipino-farmers.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\users-filipino-farmers.jpg",
+      "relativePath": "assets/images/generated/users-filipino-farmers.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "agriculturalTechnicians": {
+      "fileName": "users-agricultural-technicians.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\users-agricultural-technicians.jpg",
+      "relativePath": "assets/images/generated/users-agricultural-technicians.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "governmentAgencies": {
+      "fileName": "users-government-agencies.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\users-government-agencies.jpg",
+      "relativePath": "assets/images/generated/users-government-agencies.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "researchersPartners": {
+      "fileName": "users-researchers-partners.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\users-researchers-partners.jpg",
+      "relativePath": "assets/images/generated/users-researchers-partners.jpg",
+      "mimeType": "image/jpeg"
+    }
+  }
+}

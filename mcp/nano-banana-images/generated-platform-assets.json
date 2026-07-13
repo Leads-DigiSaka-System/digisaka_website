@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2026-07-10T03:53:56.279Z",
+  "model": "gemini-3.1-flash-image",
+  "outputDir": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated",
+  "images": {
+    "smartFarmMonitoring": {
+      "fileName": "platform-icon-smart-farm-monitoring.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\platform-icon-smart-farm-monitoring.jpg",
+      "relativePath": "assets/images/generated/platform-icon-smart-farm-monitoring.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "precisionAgriculture": {
+      "fileName": "platform-icon-precision-agriculture.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\platform-icon-precision-agriculture.jpg",
+      "relativePath": "assets/images/generated/platform-icon-precision-agriculture.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "pestDiseaseMonitoring": {
+      "fileName": "platform-icon-pest-disease-monitoring.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\platform-icon-pest-disease-monitoring.jpg",
+      "relativePath": "assets/images/generated/platform-icon-pest-disease-monitoring.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "climateSmartFarming": {
+      "fileName": "platform-icon-climate-smart-farming.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\platform-icon-climate-smart-farming.jpg",
+      "relativePath": "assets/images/generated/platform-icon-climate-smart-farming.jpg",
+      "mimeType": "image/jpeg"
+    },
+    "pandoyAssistant": {
+      "fileName": "platform-pandoy-ai-assistant.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\platform-pandoy-ai-assistant.jpg",
+      "relativePath": "assets/images/generated/platform-pandoy-ai-assistant.jpg",
+      "mimeType": "image/jpeg"
+    }
+  }
+}

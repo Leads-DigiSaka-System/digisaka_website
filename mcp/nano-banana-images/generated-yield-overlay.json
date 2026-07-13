@@ -1,0 +1,9 @@
+{
+  "fileName": "2026-07-09T16-05-18-123Z-hero-card-yield-forecast-nano-banana-isolated-a30966.jpg",
+  "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\2026-07-09T16-05-18-123Z-hero-card-yield-forecast-nano-banana-isolated-a30966.jpg",
+  "publicUrl": "http://localhost/digisaka_website/wp-content/themes/digisaka-theme/assets/images/generated/2026-07-09T16-05-18-123Z-hero-card-yield-forecast-nano-banana-isolated-a30966.jpg",
+  "mimeType": "image/jpeg",
+  "model": "gemini-3.1-flash-image",
+  "outputTarget": "theme",
+  "prompt": "Create a high-quality, website-ready visual for Digisaka, a Philippine digital agriculture platform.\nAspect ratio: 4:3.\nStyle: realistic, clean, premium, agriculture technology, bright natural light, visually inspectable subjects.\nAvoid random text, fake logos, distorted UI, watermarks, and unreadable typography unless text is explicitly requested.\nUser prompt: STRICT isolated UI overlay asset. The entire background from edge to edge must be one perfectly flat solid #ff00ff color for chroma key removal. No rice field, no landscape, no photo background, no gradient, no texture, no shadows outside the card. Center one premium glassmorphism agriculture forecast card only: rounded rectangle, translucent moss green glass, subtle border, small chart grid, white vertical bar chart with six bars. Exact readable text only: Yield Forecast and High. No logos, no watermark, no extra words. Keep generous #ff00ff padding around the card. Do not use #ff00ff anywhere inside the card."
+}

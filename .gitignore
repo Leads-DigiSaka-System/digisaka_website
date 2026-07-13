@@ -1,0 +1,34 @@
+# WordPress config (contains DB credentials — never commit)
+wp-config.php
+
+# User-generated content
+wp-content/uploads/
+wp-content/cache/
+wp-content/debug.log
+wp-content/upgrade/
+
+# Hidden/system files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build output
+dist/
+build/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+*.sublime-*

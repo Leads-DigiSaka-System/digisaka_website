@@ -1,0 +1,9 @@
+{
+  "fileName": "2026-07-09T16-13-33-128Z-hero-farm-polygon-overlay-nano-banana-irregular-93e794.jpg",
+  "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\2026-07-09T16-13-33-128Z-hero-farm-polygon-overlay-nano-banana-irregular-93e794.jpg",
+  "publicUrl": "http://localhost/digisaka_website/wp-content/themes/digisaka-theme/assets/images/generated/2026-07-09T16-13-33-128Z-hero-farm-polygon-overlay-nano-banana-irregular-93e794.jpg",
+  "mimeType": "image/jpeg",
+  "model": "gemini-3.1-flash-image",
+  "outputTarget": "theme",
+  "prompt": "Create a high-quality, website-ready visual for Digisaka, a Philippine digital agriculture platform.\nAspect ratio: 16:9.\nStyle: realistic, clean, premium, agriculture technology, bright natural light, visually inspectable subjects.\nAvoid random text, fake logos, distorted UI, watermarks, and unreadable typography unless text is explicitly requested.\nUser prompt: STRICT isolated transparent UI overlay asset. The entire background from edge to edge must be one perfectly flat solid #ff00ff color for chroma key removal. No rice field photo, no landscape, no full rectangular map tile, no square grid sheet, no text, no logos, no watermark. Draw only one irregular six to seven point farm plot boundary, like a realistic plotted polygon on a GIS map: skewed perspective, front edge lower, right side angled, one small notch, thin white glowing boundary lines, small white node dots on vertices and internal grid intersections, a few internal white subdivision lines, translucent pale yellow-green fill only inside the irregular polygon, one green map pin near the center. Leave generous #ff00ff padding around the irregular plot. Do not use #ff00ff in the asset."
+}

@@ -1,0 +1,46 @@
+{
+  "generatedAt": "2026-07-09T15:47:20.524Z",
+  "serverPath": "C:\\wamp64\\www\\digisaka_website\\mcp\\nano-banana-images\\src\\server.mjs",
+  "images": {
+    "polygon": {
+      "fileName": "2026-07-09T15-47-33-176Z-hero-farm-polygon-overlay-nano-banana-389b70.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\2026-07-09T15-47-33-176Z-hero-farm-polygon-overlay-nano-banana-389b70.jpg",
+      "publicUrl": "http://localhost/digisaka_website/wp-content/themes/digisaka-theme/assets/images/generated/2026-07-09T15-47-33-176Z-hero-farm-polygon-overlay-nano-banana-389b70.jpg",
+      "mimeType": "image/jpeg",
+      "model": "gemini-3.1-flash-image",
+      "section": "hero",
+      "outputTarget": "theme",
+      "prompt": "Create a high-quality, website-ready visual for Digisaka, a Philippine digital agriculture platform.\nSection direction: A cinematic Philippine rice field or farm landscape for a website hero, modern digital agriculture mood, realistic and bright.\nAspect ratio: 16:9.\nStyle: realistic, clean, premium, agriculture technology, bright natural light, visually inspectable subjects.\nAvoid random text, fake logos, distorted UI, watermarks, and unreadable typography unless text is explicitly requested.\nUser prompt: Transparent website overlay asset only, shown on a perfectly flat solid #ff00ff chroma key background. A realistic digital GIS farm boundary polygon matching a Philippine rice field hero reference: white thin perspective grid lines, white node dots at corners, translucent yellow green farm parcels inside the polygon, one clean green map location pin in the center, subtle glow. No real background landscape, no words, no logos, no watermark, no shadows outside the asset. Keep the complete overlay centered with generous padding. Do not use #ff00ff anywhere in the asset."
+    },
+    "cropHealth": {
+      "fileName": "2026-07-09T15-47-45-172Z-hero-card-crop-health-nano-banana-9aff3b.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\2026-07-09T15-47-45-172Z-hero-card-crop-health-nano-banana-9aff3b.jpg",
+      "publicUrl": "http://localhost/digisaka_website/wp-content/themes/digisaka-theme/assets/images/generated/2026-07-09T15-47-45-172Z-hero-card-crop-health-nano-banana-9aff3b.jpg",
+      "mimeType": "image/jpeg",
+      "model": "gemini-3.1-flash-image",
+      "section": "hero",
+      "outputTarget": "theme",
+      "prompt": "Create a high-quality, website-ready visual for Digisaka, a Philippine digital agriculture platform.\nSection direction: A cinematic Philippine rice field or farm landscape for a website hero, modern digital agriculture mood, realistic and bright.\nAspect ratio: 4:3.\nStyle: realistic, clean, premium, agriculture technology, bright natural light, visually inspectable subjects.\nAvoid random text, fake logos, distorted UI, watermarks, and unreadable typography unless text is explicitly requested.\nUser prompt: Transparent website overlay asset only, shown on a perfectly flat solid #ff00ff chroma key background. A premium glassmorphism agriculture analytics card, rounded rectangle, translucent moss green glass, soft border, subtle grid. Exact readable text: Crop Health, Good, 86%. Include a white crop-health line chart and a small simple status circle icon. No logos, no watermark, no extra words. Keep the whole card centered with generous padding. Do not use #ff00ff anywhere in the card."
+    },
+    "yieldForecast": {
+      "fileName": "2026-07-09T15-47-57-020Z-hero-card-yield-forecast-nano-banana-69f12d.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\2026-07-09T15-47-57-020Z-hero-card-yield-forecast-nano-banana-69f12d.jpg",
+      "publicUrl": "http://localhost/digisaka_website/wp-content/themes/digisaka-theme/assets/images/generated/2026-07-09T15-47-57-020Z-hero-card-yield-forecast-nano-banana-69f12d.jpg",
+      "mimeType": "image/jpeg",
+      "model": "gemini-3.1-flash-image",
+      "section": "hero",
+      "outputTarget": "theme",
+      "prompt": "Create a high-quality, website-ready visual for Digisaka, a Philippine digital agriculture platform.\nSection direction: A cinematic Philippine rice field or farm landscape for a website hero, modern digital agriculture mood, realistic and bright.\nAspect ratio: 4:3.\nStyle: realistic, clean, premium, agriculture technology, bright natural light, visually inspectable subjects.\nAvoid random text, fake logos, distorted UI, watermarks, and unreadable typography unless text is explicitly requested.\nUser prompt: Transparent website overlay asset only, shown on a perfectly flat solid #ff00ff chroma key background. A premium glassmorphism agriculture forecast card, rounded rectangle, translucent moss green glass, soft border, subtle grid. Exact readable text: Yield Forecast, High. Include a clean white vertical bar chart with six bars and a tiny slash-zero forecast icon. No logos, no watermark, no extra words. Keep the whole card centered with generous padding. Do not use #ff00ff anywhere in the card."
+    },
+    "satellite": {
+      "fileName": "2026-07-09T15-48-09-184Z-hero-satellite-overlay-nano-banana-cd5f6f.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\2026-07-09T15-48-09-184Z-hero-satellite-overlay-nano-banana-cd5f6f.jpg",
+      "publicUrl": "http://localhost/digisaka_website/wp-content/themes/digisaka-theme/assets/images/generated/2026-07-09T15-48-09-184Z-hero-satellite-overlay-nano-banana-cd5f6f.jpg",
+      "mimeType": "image/jpeg",
+      "model": "gemini-3.1-flash-image",
+      "section": "hero",
+      "outputTarget": "theme",
+      "prompt": "Create a high-quality, website-ready visual for Digisaka, a Philippine digital agriculture platform.\nSection direction: A cinematic Philippine rice field or farm landscape for a website hero, modern digital agriculture mood, realistic and bright.\nAspect ratio: 1:1.\nStyle: realistic, clean, premium, agriculture technology, bright natural light, visually inspectable subjects.\nAvoid random text, fake logos, distorted UI, watermarks, and unreadable typography unless text is explicitly requested.\nUser prompt: Transparent website overlay asset only, shown on a perfectly flat solid #ff00ff chroma key background. A small sleek agriculture satellite / remote sensing accent icon, white and deep green, slight realistic 3D shine, solar panels, tiny data signal dots, designed for a digital farming hero section. No words, no logos, no watermark. Keep centered with generous padding. Do not use #ff00ff anywhere in the subject."
+    }
+  }
+}

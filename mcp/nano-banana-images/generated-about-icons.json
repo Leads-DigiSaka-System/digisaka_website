@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-07-09T17:26:19.589Z",
+  "images": {
+    "mission": {
+      "fileName": "2026-07-09T17-26-30-630Z-about-icon-mission-023c55.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\2026-07-09T17-26-30-630Z-about-icon-mission-023c55.jpg",
+      "publicUrl": "http://localhost/digisaka_website/wp-content/themes/digisaka-theme/assets/images/generated/2026-07-09T17-26-30-630Z-about-icon-mission-023c55.jpg",
+      "mimeType": "image/jpeg",
+      "model": "gemini-3.1-flash-image",
+      "section": "about",
+      "outputTarget": "theme",
+      "prompt": "Create a high-quality, website-ready visual for Digisaka, a Philippine digital agriculture platform.\nSection direction: Filipino farmers and agricultural field teams collaborating with mobile or tablet tools, warm documentary style.\nAspect ratio: 1:1.\nStyle: realistic, clean, premium, agriculture technology, bright natural light, visually inspectable subjects.\nAvoid random text, fake logos, distorted UI, watermarks, and unreadable typography unless text is explicitly requested.\nUser prompt: STRICT isolated icon asset only. The entire background from edge to edge must be one perfectly flat solid #ff00ff color for chroma key removal. Center one simple premium green line icon, rounded organic agriculture style, dark forest green stroke, tiny light green accent, no text, no letters, no numbers, no logos, no watermark, no square frame, no shadow outside the icon. Keep generous #ff00ff padding. Do not use #ff00ff in the icon. Icon concept: farmer decision mission, a document checklist with a small sprout and location marker."
+    },
+    "vision": {
+      "fileName": "2026-07-09T17-26-40-946Z-about-icon-vision-90e0fd.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\2026-07-09T17-26-40-946Z-about-icon-vision-90e0fd.jpg",
+      "publicUrl": "http://localhost/digisaka_website/wp-content/themes/digisaka-theme/assets/images/generated/2026-07-09T17-26-40-946Z-about-icon-vision-90e0fd.jpg",
+      "mimeType": "image/jpeg",
+      "model": "gemini-3.1-flash-image",
+      "section": "about",
+      "outputTarget": "theme",
+      "prompt": "Create a high-quality, website-ready visual for Digisaka, a Philippine digital agriculture platform.\nSection direction: Filipino farmers and agricultural field teams collaborating with mobile or tablet tools, warm documentary style.\nAspect ratio: 1:1.\nStyle: realistic, clean, premium, agriculture technology, bright natural light, visually inspectable subjects.\nAvoid random text, fake logos, distorted UI, watermarks, and unreadable typography unless text is explicitly requested.\nUser prompt: STRICT isolated icon asset only. The entire background from edge to edge must be one perfectly flat solid #ff00ff color for chroma key removal. Center one simple premium green line icon, rounded organic agriculture style, dark forest green stroke, tiny light green accent, no text, no letters, no numbers, no logos, no watermark, no square frame, no shadow outside the icon. Keep generous #ff00ff padding. Do not use #ff00ff in the icon. Icon concept: thriving farm vision, a sprout inside a circular ecosystem with small connected nodes."
+    },
+    "commitment": {
+      "fileName": "2026-07-09T17-26-50-957Z-about-icon-commitment-c046d7.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\2026-07-09T17-26-50-957Z-about-icon-commitment-c046d7.jpg",
+      "publicUrl": "http://localhost/digisaka_website/wp-content/themes/digisaka-theme/assets/images/generated/2026-07-09T17-26-50-957Z-about-icon-commitment-c046d7.jpg",
+      "mimeType": "image/jpeg",
+      "model": "gemini-3.1-flash-image",
+      "section": "about",
+      "outputTarget": "theme",
+      "prompt": "Create a high-quality, website-ready visual for Digisaka, a Philippine digital agriculture platform.\nSection direction: Filipino farmers and agricultural field teams collaborating with mobile or tablet tools, warm documentary style.\nAspect ratio: 1:1.\nStyle: realistic, clean, premium, agriculture technology, bright natural light, visually inspectable subjects.\nAvoid random text, fake logos, distorted UI, watermarks, and unreadable typography unless text is explicitly requested.\nUser prompt: STRICT isolated icon asset only. The entire background from edge to edge must be one perfectly flat solid #ff00ff color for chroma key removal. Center one simple premium green line icon, rounded organic agriculture style, dark forest green stroke, tiny light green accent, no text, no letters, no numbers, no logos, no watermark, no square frame, no shadow outside the icon. Keep generous #ff00ff padding. Do not use #ff00ff in the icon. Icon concept: commitment and inclusive growth, two hands supporting a small leaf."
+    },
+    "betterFarmers": {
+      "fileName": "2026-07-09T17-27-00-256Z-about-icon-better-farmers-69e8fa.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\2026-07-09T17-27-00-256Z-about-icon-better-farmers-69e8fa.jpg",
+      "publicUrl": "http://localhost/digisaka_website/wp-content/themes/digisaka-theme/assets/images/generated/2026-07-09T17-27-00-256Z-about-icon-better-farmers-69e8fa.jpg",
+      "mimeType": "image/jpeg",
+      "model": "gemini-3.1-flash-image",
+      "section": "about",
+      "outputTarget": "theme",
+      "prompt": "Create a high-quality, website-ready visual for Digisaka, a Philippine digital agriculture platform.\nSection direction: Filipino farmers and agricultural field teams collaborating with mobile or tablet tools, warm documentary style.\nAspect ratio: 1:1.\nStyle: realistic, clean, premium, agriculture technology, bright natural light, visually inspectable subjects.\nAvoid random text, fake logos, distorted UI, watermarks, and unreadable typography unless text is explicitly requested.\nUser prompt: STRICT isolated icon asset only. The entire background from edge to edge must be one perfectly flat solid #ff00ff color for chroma key removal. Center one simple premium green line icon, rounded organic agriculture style, dark forest green stroke, tiny light green accent, no text, no letters, no numbers, no logos, no watermark, no square frame, no shadow outside the icon. Keep generous #ff00ff padding. Do not use #ff00ff in the icon. Icon concept: better farmers, simple farmer hat with a sprout and upward leaf."
+    },
+    "dataInsights": {
+      "fileName": "2026-07-09T17-27-10-046Z-about-icon-data-insights-4c1374.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\2026-07-09T17-27-10-046Z-about-icon-data-insights-4c1374.jpg",
+      "publicUrl": "http://localhost/digisaka_website/wp-content/themes/digisaka-theme/assets/images/generated/2026-07-09T17-27-10-046Z-about-icon-data-insights-4c1374.jpg",
+      "mimeType": "image/jpeg",
+      "model": "gemini-3.1-flash-image",
+      "section": "about",
+      "outputTarget": "theme",
+      "prompt": "Create a high-quality, website-ready visual for Digisaka, a Philippine digital agriculture platform.\nSection direction: Filipino farmers and agricultural field teams collaborating with mobile or tablet tools, warm documentary style.\nAspect ratio: 1:1.\nStyle: realistic, clean, premium, agriculture technology, bright natural light, visually inspectable subjects.\nAvoid random text, fake logos, distorted UI, watermarks, and unreadable typography unless text is explicitly requested.\nUser prompt: STRICT isolated icon asset only. The entire background from edge to edge must be one perfectly flat solid #ff00ff color for chroma key removal. Center one simple premium green line icon, rounded organic agriculture style, dark forest green stroke, tiny light green accent, no text, no letters, no numbers, no logos, no watermark, no square frame, no shadow outside the icon. Keep generous #ff00ff padding. Do not use #ff00ff in the icon. Icon concept: data-driven insights, clean rising bar chart with small leaf."
+    },
+    "farmEmpowerment": {
+      "fileName": "2026-07-09T17-27-19-494Z-about-icon-farm-empowerment-27892b.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\2026-07-09T17-27-19-494Z-about-icon-farm-empowerment-27892b.jpg",
+      "publicUrl": "http://localhost/digisaka_website/wp-content/themes/digisaka-theme/assets/images/generated/2026-07-09T17-27-19-494Z-about-icon-farm-empowerment-27892b.jpg",
+      "mimeType": "image/jpeg",
+      "model": "gemini-3.1-flash-image",
+      "section": "about",
+      "outputTarget": "theme",
+      "prompt": "Create a high-quality, website-ready visual for Digisaka, a Philippine digital agriculture platform.\nSection direction: Filipino farmers and agricultural field teams collaborating with mobile or tablet tools, warm documentary style.\nAspect ratio: 1:1.\nStyle: realistic, clean, premium, agriculture technology, bright natural light, visually inspectable subjects.\nAvoid random text, fake logos, distorted UI, watermarks, and unreadable typography unless text is explicitly requested.\nUser prompt: STRICT isolated icon asset only. The entire background from edge to edge must be one perfectly flat solid #ff00ff color for chroma key removal. Center one simple premium green line icon, rounded organic agriculture style, dark forest green stroke, tiny light green accent, no text, no letters, no numbers, no logos, no watermark, no square frame, no shadow outside the icon. Keep generous #ff00ff padding. Do not use #ff00ff in the icon. Icon concept: farm empowerment, a strong hand holding a sprouting rice plant."
+    },
+    "closeOutletMarket": {
+      "fileName": "2026-07-09T17-27-29-698Z-about-icon-close-outlet-market-1e8750.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\2026-07-09T17-27-29-698Z-about-icon-close-outlet-market-1e8750.jpg",
+      "publicUrl": "http://localhost/digisaka_website/wp-content/themes/digisaka-theme/assets/images/generated/2026-07-09T17-27-29-698Z-about-icon-close-outlet-market-1e8750.jpg",
+      "mimeType": "image/jpeg",
+      "model": "gemini-3.1-flash-image",
+      "section": "about",
+      "outputTarget": "theme",
+      "prompt": "Create a high-quality, website-ready visual for Digisaka, a Philippine digital agriculture platform.\nSection direction: Filipino farmers and agricultural field teams collaborating with mobile or tablet tools, warm documentary style.\nAspect ratio: 1:1.\nStyle: realistic, clean, premium, agriculture technology, bright natural light, visually inspectable subjects.\nAvoid random text, fake logos, distorted UI, watermarks, and unreadable typography unless text is explicitly requested.\nUser prompt: STRICT isolated icon asset only. The entire background from edge to edge must be one perfectly flat solid #ff00ff color for chroma key removal. Center one simple premium green line icon, rounded organic agriculture style, dark forest green stroke, tiny light green accent, no text, no letters, no numbers, no logos, no watermark, no square frame, no shadow outside the icon. Keep generous #ff00ff padding. Do not use #ff00ff in the icon. Icon concept: close-outlet market, connected people nodes with a tiny produce basket."
+    },
+    "sustainableFuture": {
+      "fileName": "2026-07-09T17-27-39-506Z-about-icon-sustainable-future-af2fd6.jpg",
+      "filePath": "C:\\wamp64\\www\\digisaka_website\\wp-content\\themes\\digisaka-theme\\assets\\images\\generated\\2026-07-09T17-27-39-506Z-about-icon-sustainable-future-af2fd6.jpg",
+      "publicUrl": "http://localhost/digisaka_website/wp-content/themes/digisaka-theme/assets/images/generated/2026-07-09T17-27-39-506Z-about-icon-sustainable-future-af2fd6.jpg",
+      "mimeType": "image/jpeg",
+      "model": "gemini-3.1-flash-image",
+      "section": "about",
+      "outputTarget": "theme",
+      "prompt": "Create a high-quality, website-ready visual for Digisaka, a Philippine digital agriculture platform.\nSection direction: Filipino farmers and agricultural field teams collaborating with mobile or tablet tools, warm documentary style.\nAspect ratio: 1:1.\nStyle: realistic, clean, premium, agriculture technology, bright natural light, visually inspectable subjects.\nAvoid random text, fake logos, distorted UI, watermarks, and unreadable typography unless text is explicitly requested.\nUser prompt: STRICT isolated icon asset only. The entire background from edge to edge must be one perfectly flat solid #ff00ff color for chroma key removal. Center one simple premium green line icon, rounded organic agriculture style, dark forest green stroke, tiny light green accent, no text, no letters, no numbers, no logos, no watermark, no square frame, no shadow outside the icon. Keep generous #ff00ff padding. Do not use #ff00ff in the icon. Icon concept: sustainable future, circular arrows around a leaf and water drop."
+    }
+  }
+}

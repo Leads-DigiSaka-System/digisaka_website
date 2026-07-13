@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "digisaka-nano-banana-images": {
+      "command": "node",
+      "args": [
+        "C:\\wamp64\\www\\digisaka_website\\mcp\\nano-banana-images\\src\\server.mjs"
+      ]
+    }
+  }
+}

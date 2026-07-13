@@ -1,0 +1,23 @@
+{
+  "name": "digisaka-nano-banana-images-mcp",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "MCP server for generating Digisaka website images with Google Gemini Nano Banana.",
+  "bin": {
+    "digisaka-nano-banana-images": "./src/server.mjs"
+  },
+  "scripts": {
+    "start": "node ./src/server.mjs",
+    "check": "node --check ./src/server.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@google/genai": "^2.10.0",
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "dotenv": "^17.2.3",
+    "zod": "^3.25.76"
+  }
+}

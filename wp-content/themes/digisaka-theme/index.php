@@ -17,7 +17,7 @@ if ( is_home() && ! is_front_page() ) {
 
 $archive_description = is_archive() ? get_the_archive_description() : get_bloginfo( 'description' );
 if ( ! $archive_description ) {
-	$archive_description = __( 'Stories, product updates, and field notes from the DigiSaka digital agriculture ecosystem.', 'digisaka-theme' );
+	$archive_description = __( 'Stories, product updates, and field notes from the Digisaka digital agriculture ecosystem.', 'digisaka-theme' );
 }
 
 $hero_media = digisaka_theme_media( 'partner', 'wide' );
@@ -28,7 +28,7 @@ get_header();
 <section class="inner-hero inner-hero--archive" style="<?php echo esc_attr( $style ); ?>">
 	<div class="container inner-hero__grid">
 		<div class="inner-hero__copy reveal">
-			<p class="eyebrow"><?php esc_html_e( 'DigiSaka Updates', 'digisaka-theme' ); ?></p>
+			<p class="eyebrow"><?php esc_html_e( 'Digisaka Updates', 'digisaka-theme' ); ?></p>
 			<h1><?php echo esc_html( $archive_title ); ?></h1>
 			<p><?php echo esc_html( wp_strip_all_tags( $archive_description ) ); ?></p>
 		</div>
@@ -47,7 +47,7 @@ get_header();
 	<div class="container inner-section__heading reveal">
 		<p class="ds-kicker"><?php esc_html_e( 'Latest Reads', 'digisaka-theme' ); ?></p>
 		<h2><?php esc_html_e( 'Explore the newest agriculture updates', 'digisaka-theme' ); ?></h2>
-		<p><?php esc_html_e( 'Browse insights on farm monitoring, digital tools, climate-smart agriculture, and DigiSaka platform progress.', 'digisaka-theme' ); ?></p>
+		<p><?php esc_html_e( 'Browse insights on farm monitoring, digital tools, climate-smart agriculture, and Digisaka platform progress.', 'digisaka-theme' ); ?></p>
 	</div>
 	<div class="container post-grid post-grid--inner">
 		<?php

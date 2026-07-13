@@ -6,6 +6,7 @@
  */
 
 $asset_uri       = get_template_directory_uri() . '/assets/images';
+$brand_logo      = $asset_uri . '/logo_name.png';
 $google_play_url = 'https://play.google.com/store/apps/details?id=com.leadsagri.digisaka';
 ?>
 </main>
@@ -13,9 +14,8 @@ $google_play_url = 'https://play.google.com/store/apps/details?id=com.leadsagri.
 <footer class="site-footer site-footer--digisaka">
 	<div class="site-footer__inner">
 		<div class="site-footer__brand">
-			<a class="site-footer__logo-link" href="<?php echo esc_url( home_url( '/' ) ); ?>" aria-label="<?php esc_attr_e( 'DigiSaka home', 'digisaka-theme' ); ?>">
-				<img src="<?php echo esc_url( digisaka_theme_logo_url() ); ?>" alt="<?php echo esc_attr( get_bloginfo( 'name' ) ); ?>" class="site-footer__logo">
-				<span class="site-footer__wordmark"><?php esc_html_e( 'Digisaka', 'digisaka-theme' ); ?></span>
+			<a class="site-footer__logo-link" href="<?php echo esc_url( home_url( '/' ) ); ?>" aria-label="<?php esc_attr_e( 'Digisaka home', 'digisaka-theme' ); ?>">
+				<img src="<?php echo esc_url( $brand_logo ); ?>" alt="<?php esc_attr_e( 'Digisaka', 'digisaka-theme' ); ?>" class="site-footer__logo">
 			</a>
 			<p><?php esc_html_e( 'Digitizing Philippine agriculture with connected field data, WebGIS intelligence, mobile alerts, and farmer-first workflows.', 'digisaka-theme' ); ?></p>
 			<div class="site-footer__actions">
@@ -49,7 +49,7 @@ $google_play_url = 'https://play.google.com/store/apps/details?id=com.leadsagri.
 			</div>
 
 			<div class="site-footer__column site-footer__column--cta">
-				<span class="site-footer__cta-badge"><?php esc_html_e( 'Grow With DigiSaka', 'digisaka-theme' ); ?></span>
+				<span class="site-footer__cta-badge"><?php esc_html_e( 'Grow With Digisaka', 'digisaka-theme' ); ?></span>
 				<p><?php esc_html_e( 'Bring satellite insights, AI support, and field-ready agriculture tools into your next program.', 'digisaka-theme' ); ?></p>
 				<a class="site-footer__cta" href="<?php echo esc_url( home_url( '/partner/' ) ); ?>">
 					<?php esc_html_e( 'Partner With Us', 'digisaka-theme' ); ?>

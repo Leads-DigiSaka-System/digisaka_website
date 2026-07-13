@@ -15,7 +15,7 @@ get_header();
 		<div class="inner-hero__copy reveal">
 			<p class="eyebrow"><?php esc_html_e( '404', 'digisaka-theme' ); ?></p>
 			<h1><?php esc_html_e( 'This field is not mapped yet.', 'digisaka-theme' ); ?></h1>
-			<p><?php esc_html_e( 'The page you are looking for is unavailable or has moved. Let us bring you back to the DigiSaka map.', 'digisaka-theme' ); ?></p>
+			<p><?php esc_html_e( 'The page you are looking for is unavailable or has moved. Let us bring you back to the Digisaka map.', 'digisaka-theme' ); ?></p>
 			<div class="hero__actions inner-hero__actions">
 				<a class="ds-button ds-button--green" href="<?php echo esc_url( home_url( '/' ) ); ?>"><?php esc_html_e( 'Return Home', 'digisaka-theme' ); ?><span aria-hidden="true">&#8594;</span></a>
 				<a class="ds-button ds-button--outline" href="<?php echo esc_url( home_url( '/platform/' ) ); ?>"><?php esc_html_e( 'Explore Platform', 'digisaka-theme' ); ?><span aria-hidden="true">&#8594;</span></a>

@@ -9,7 +9,7 @@ $contact = digisaka_theme_site_content()['contact'];
 			<p><?php echo esc_html( $contact['description'] ); ?></p>
 			<div class="inner-contact-details">
 				<p><strong><?php esc_html_e( 'Leads Agricultural Products Corporation', 'digisaka-theme' ); ?></strong></p>
-				<p><?php esc_html_e( 'Developer of the DigiSaka Digital Agriculture Platform.', 'digisaka-theme' ); ?></p>
+				<p><?php esc_html_e( 'Developer of the Digisaka Digital Agriculture Platform.', 'digisaka-theme' ); ?></p>
 				<a href="mailto:hello@digisaka.ph"><?php esc_html_e( 'hello@digisaka.ph', 'digisaka-theme' ); ?></a>
 				<span><?php esc_html_e( 'Batangas, Philippines', 'digisaka-theme' ); ?></span>
 			</div>

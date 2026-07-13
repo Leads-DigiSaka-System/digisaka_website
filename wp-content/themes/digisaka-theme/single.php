@@ -12,7 +12,7 @@ while ( have_posts() ) :
 	the_post();
 	$reading_minutes = max( 1, (int) ceil( str_word_count( wp_strip_all_tags( get_the_content() ) ) / 220 ) );
 	$categories      = get_the_category();
-	$primary_cat     = ! empty( $categories ) ? $categories[0]->name : __( 'DigiSaka Story', 'digisaka-theme' );
+	$primary_cat     = ! empty( $categories ) ? $categories[0]->name : __( 'Digisaka Story', 'digisaka-theme' );
 	$fallback_media  = digisaka_theme_media( 'hero', 'wide' );
 	$hero_image      = has_post_thumbnail() ? get_the_post_thumbnail_url( get_the_ID(), 'large' ) : $fallback_media['url'];
 	$style           = '--inner-hero-bg: url(' . esc_url( $hero_image ) . ');';
@@ -32,7 +32,7 @@ while ( have_posts() ) :
 				<div class="inner-hero__visual inner-hero__visual--image reveal reveal--delay" aria-hidden="true">
 					<figure class="inner-hero__image-card">
 						<img src="<?php echo esc_url( $hero_image ); ?>" alt="">
-						<figcaption><span><?php echo esc_html( $primary_cat ); ?></span><strong><?php esc_html_e( 'DigiSaka field note', 'digisaka-theme' ); ?></strong></figcaption>
+						<figcaption><span><?php echo esc_html( $primary_cat ); ?></span><strong><?php esc_html_e( 'Digisaka field note', 'digisaka-theme' ); ?></strong></figcaption>
 					</figure>
 					<div class="inner-float-card inner-float-card--top"><strong><?php esc_html_e( 'Farm Data', 'digisaka-theme' ); ?></strong><span><?php esc_html_e( 'Insights for action', 'digisaka-theme' ); ?></span></div>
 					<div class="inner-float-card inner-float-card--bottom"><strong><?php esc_html_e( 'Read Time', 'digisaka-theme' ); ?></strong><span><?php echo esc_html( sprintf( _n( '%d minute', '%d minutes', $reading_minutes, 'digisaka-theme' ), $reading_minutes ) ); ?></span></div>
@@ -51,7 +51,7 @@ while ( have_posts() ) :
 				</div>
 				<aside class="inner-side-card inner-side-card--single reveal reveal--delay">
 					<p class="ds-kicker"><?php esc_html_e( 'Article Details', 'digisaka-theme' ); ?></p>
-					<h2><?php esc_html_e( 'DigiSaka field note', 'digisaka-theme' ); ?></h2>
+					<h2><?php esc_html_e( 'Digisaka field note', 'digisaka-theme' ); ?></h2>
 					<ul>
 						<li><span><?php esc_html_e( 'Published', 'digisaka-theme' ); ?></span><strong><?php echo esc_html( get_the_date() ); ?></strong></li>
 						<li><span><?php esc_html_e( 'Author', 'digisaka-theme' ); ?></span><strong><?php the_author(); ?></strong></li>

@@ -145,15 +145,15 @@ function digisaka_theme_media_assets() {
 			'url' => $asset_uri . '/generated-homepage-about.png' . $suffix,
 		),
 		'platform' => array(
-			'alt' => 'DigiSaka platform smart monitoring visual',
+			'alt' => 'Digisaka platform smart monitoring visual',
 			'url' => $generated . '/platform-card-smart-monitoring.png' . $suffix,
 		),
 		'webgis' => array(
-			'alt' => 'DigiSaka WebGIS farm mapping dashboard',
+			'alt' => 'Digisaka WebGIS farm mapping dashboard',
 			'url' => $asset_uri . '/webgis.png' . $suffix,
 		),
 		'mobile' => array(
-			'alt' => 'DigiSaka mobile farm alerts on iPhone',
+			'alt' => 'Digisaka mobile farm alerts on iPhone',
 			'url' => $generated . '/mobile-iphone17-farm-alerts.jpg' . $suffix,
 		),
 		'sustainability' => array(

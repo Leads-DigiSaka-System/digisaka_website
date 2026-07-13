@@ -15,7 +15,7 @@ $has_cards = ! $media && ! empty( $cards );
 		<?php if ( $media ) : ?>
 			<figure class="inner-showcase__media reveal reveal--delay">
 				<img src="<?php echo esc_url( $media['url'] ); ?>" alt="<?php echo esc_attr( $media['alt'] ); ?>">
-				<figcaption><span><?php esc_html_e( 'DigiSaka Workflow', 'digisaka-theme' ); ?></span><strong><?php esc_html_e( 'Connected field intelligence', 'digisaka-theme' ); ?></strong></figcaption>
+				<figcaption><span><?php esc_html_e( 'Digisaka Workflow', 'digisaka-theme' ); ?></span><strong><?php esc_html_e( 'Connected field intelligence', 'digisaka-theme' ); ?></strong></figcaption>
 			</figure>
 		<?php elseif ( ! empty( $cards ) ) : ?>
 			<div class="inner-mini-grid reveal reveal--delay">

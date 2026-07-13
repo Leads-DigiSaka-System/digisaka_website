@@ -49,7 +49,7 @@ $platform_cards = array(
 		'title' => __( 'WebGIS Analytics', 'digisaka-theme' ),
 		'text'  => __( 'Centralize interactive maps, saved fields, field layers, and analytics in a command center for agriculture teams.', 'digisaka-theme' ),
 		'image' => $asset_uri . '/webgis.png?v=' . $asset_ver,
-		'alt'   => __( 'DigiSaka WebGIS interface with farm boundary layers', 'digisaka-theme' ),
+		'alt'   => __( 'Digisaka WebGIS interface with farm boundary layers', 'digisaka-theme' ),
 		'tag'   => __( 'Command Center', 'digisaka-theme' ),
 		'meta'  => __( 'Map-based decisions', 'digisaka-theme' ),
 	),
@@ -171,9 +171,9 @@ get_header();
 		<div class="container platform-cta-band__inner reveal">
 			<div>
 				<p class="ds-kicker ds-kicker--light"><?php esc_html_e( 'Ready for smarter agriculture?', 'digisaka-theme' ); ?></p>
-				<h2><?php esc_html_e( 'Bring DigiSaka to your farms, field teams, and programs.', 'digisaka-theme' ); ?></h2>
+				<h2><?php esc_html_e( 'Bring Digisaka to your farms, field teams, and programs.', 'digisaka-theme' ); ?></h2>
 			</div>
-			<a class="ds-button ds-button--orange" href="<?php echo esc_url( home_url( '/partner/' ) ); ?>"><?php esc_html_e( 'Partner With DigiSaka', 'digisaka-theme' ); ?></a>
+			<a class="ds-button ds-button--orange" href="<?php echo esc_url( home_url( '/partner/' ) ); ?>"><?php esc_html_e( 'Partner With Digisaka', 'digisaka-theme' ); ?></a>
 		</div>
 	</section>
 </div>

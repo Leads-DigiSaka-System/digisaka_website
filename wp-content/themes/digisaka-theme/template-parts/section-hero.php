@@ -3,7 +3,7 @@ $section   = $args['section'] ?? array();
 $actions   = $args['actions'] ?? array();
 $media_key = $args['media'] ?? 'hero';
 $media     = digisaka_theme_media( $media_key, 'wide' );
-$label     = $section['label'] ?? ( $section['eyebrow'] ?? __( 'DigiSaka', 'digisaka-theme' ) );
+$label     = $section['label'] ?? ( $section['eyebrow'] ?? __( 'Digisaka', 'digisaka-theme' ) );
 $style     = '--inner-hero-bg: url(' . esc_url( $media['url'] ) . ');';
 ?>
 <section class="inner-hero inner-hero--digisaka inner-hero--<?php echo esc_attr( sanitize_html_class( $media_key ) ); ?>" style="<?php echo esc_attr( $style ); ?>">

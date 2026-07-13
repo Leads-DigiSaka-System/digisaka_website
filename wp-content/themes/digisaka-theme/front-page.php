@@ -57,7 +57,7 @@ $generated_news_partnership = $asset_uri . '/generated-news-partnership.png';
 $generated_news_resilience = $asset_uri . '/generated-news-resilience-drone.png';
 $generated_news_webgis = $asset_uri . '/generated-news-webgis-features.png';
 $news_cards      = array(
-	array( $generated_news_farmer, 'Yenchaie: Philippine Agriculture Through DigiSaka', 'How Filipino growers are using digital tools for stronger farm decisions.', 'Field Story', 'May 20, 2024' ),
+	array( $generated_news_farmer, 'Yenchaie: Philippine Agriculture Through Digisaka', 'How Filipino growers are using digital tools for stronger farm decisions.', 'Field Story', 'May 20, 2024' ),
 	array( $generated_news_partnership, 'Agri Partnership for Sustainable Future', 'Building climate-smart programs with communities and institutions.', 'Partnership', 'May 15, 2024' ),
 	array( $generated_news_resilience, 'Towards a Resilient Agriculture', 'Satellite insights, GIS, and AI help field teams respond faster.', 'Innovation', 'May 10, 2024' ),
 	array( $generated_news_webgis, 'New Features Now Available', 'Expanded WebGIS layers and mobile farm monitoring tools are rolling out.', 'Product Update', 'May 5, 2024' ),
@@ -116,7 +116,7 @@ get_header();
 						<span class="ds-about-ref__icon"><img src="<?php echo esc_url( $asset_uri . '/about-icon-commitment.png?v=' . $asset_version ); ?>" alt="" loading="lazy"></span>
 						<div><h3><?php esc_html_e( 'Our Commitment', 'digisaka-theme' ); ?></h3><p><?php esc_html_e( 'Building solutions that promote productivity, sustainability, and inclusive growth.', 'digisaka-theme' ); ?></p></div>
 					</div>
-					<ul class="ds-about-ref__pills reveal" aria-label="<?php esc_attr_e( 'DigiSaka commitments', 'digisaka-theme' ); ?>">
+					<ul class="ds-about-ref__pills reveal" aria-label="<?php esc_attr_e( 'Digisaka commitments', 'digisaka-theme' ); ?>">
 						<li><span><img src="<?php echo esc_url( $asset_uri . '/about-icon-better-farmers.png?v=' . $asset_version ); ?>" alt="" loading="lazy"></span><strong><?php esc_html_e( 'Better Farmers', 'digisaka-theme' ); ?></strong></li>
 						<li><span><img src="<?php echo esc_url( $asset_uri . '/about-icon-data-insights.png?v=' . $asset_version ); ?>" alt="" loading="lazy"></span><strong><?php esc_html_e( 'Data-driven Insights', 'digisaka-theme' ); ?></strong></li>
 						<li><span><img src="<?php echo esc_url( $asset_uri . '/about-icon-farm-empowerment.png?v=' . $asset_version ); ?>" alt="" loading="lazy"></span><strong><?php esc_html_e( 'Farm Empowerment', 'digisaka-theme' ); ?></strong></li>
@@ -135,9 +135,9 @@ get_header();
 					<h2><?php esc_html_e( 'Digisaka WebGIS', 'digisaka-theme' ); ?></h2>
 					<p><?php esc_html_e( 'Interactive maps and analytics for smarter farm management.', 'digisaka-theme' ); ?></p>
 				</div>
-				<div class="ds-laptop" aria-label="<?php esc_attr_e( 'DigiSaka WebGIS shown on a laptop', 'digisaka-theme' ); ?>">
+				<div class="ds-laptop" aria-label="<?php esc_attr_e( 'Digisaka WebGIS shown on a laptop', 'digisaka-theme' ); ?>">
 					<div class="ds-laptop__screen">
-						<img src="<?php echo esc_url( $webgis_screen ); ?>" alt="<?php esc_attr_e( 'DigiSaka WebGIS interactive farm map', 'digisaka-theme' ); ?>">
+						<img src="<?php echo esc_url( $webgis_screen ); ?>" alt="<?php esc_attr_e( 'Digisaka WebGIS interactive farm map', 'digisaka-theme' ); ?>">
 						<div class="ds-laptop__layers" aria-hidden="true">
 							<span><i></i><?php esc_html_e( 'NDVI Layer', 'digisaka-theme' ); ?></span>
 							<span><i></i><?php esc_html_e( 'Yield Forecast', 'digisaka-theme' ); ?></span>
@@ -160,13 +160,13 @@ get_header();
 				</div>
 			<div class="ds-iphone17-row ds-iphone17-row--mockup">
 				<div class="ds-iphone17-mockup">
-					<img src="<?php echo esc_url( $iphone17_alerts ); ?>" alt="<?php esc_attr_e( 'DigiSaka farm alerts on iPhone 17', 'digisaka-theme' ); ?>">
+					<img src="<?php echo esc_url( $iphone17_alerts ); ?>" alt="<?php esc_attr_e( 'Digisaka farm alerts on iPhone 17', 'digisaka-theme' ); ?>">
 				</div>
 				<div class="ds-iphone17-mockup">
-					<img src="<?php echo esc_url( $iphone17_weather ); ?>" alt="<?php esc_attr_e( 'DigiSaka realtime weather on iPhone 17', 'digisaka-theme' ); ?>">
+					<img src="<?php echo esc_url( $iphone17_weather ); ?>" alt="<?php esc_attr_e( 'Digisaka realtime weather on iPhone 17', 'digisaka-theme' ); ?>">
 				</div>
 				<div class="ds-iphone17-mockup">
-					<img src="<?php echo esc_url( $iphone17_ai_result ); ?>" alt="<?php esc_attr_e( 'DigiSaka AI plant analysis on iPhone 17', 'digisaka-theme' ); ?>">
+					<img src="<?php echo esc_url( $iphone17_ai_result ); ?>" alt="<?php esc_attr_e( 'Digisaka AI plant analysis on iPhone 17', 'digisaka-theme' ); ?>">
 				</div>
 			</div>
 				<div class="store-badges ds-store-badges ds-store-badges--reference">
@@ -240,7 +240,7 @@ get_header();
 			<div class="ds-platform-ref__header reveal">
 				<h2><?php esc_html_e( 'Our Platform', 'digisaka-theme' ); ?></h2>
 			</div>
-			<div class="ds-platform-ref__cards" aria-label="<?php esc_attr_e( 'DigiSaka platform capabilities', 'digisaka-theme' ); ?>">
+			<div class="ds-platform-ref__cards" aria-label="<?php esc_attr_e( 'Digisaka platform capabilities', 'digisaka-theme' ); ?>">
 				<article class="ds-platform-ref__card reveal">
 					<span class="ds-platform-ref__icon"><img src="<?php echo esc_url( $platform_icon_smart ); ?>" alt="" loading="lazy"></span>
 					<h3><?php esc_html_e( 'Smart Farm Monitoring', 'digisaka-theme' ); ?></h3>
@@ -303,7 +303,7 @@ get_header();
 			<div class="reveal">
 				<p class="ds-kicker"><?php esc_html_e( 'Supporting Sustainable Agriculture', 'digisaka-theme' ); ?></p>
 				<h2><?php esc_html_e( 'Climate-smart farming and carbon market readiness.', 'digisaka-theme' ); ?></h2>
-				<p><?php esc_html_e( 'DigiSaka supports monitoring, reporting, and verification for sustainable practices like AWD and low-carbon rice programs.', 'digisaka-theme' ); ?></p>
+				<p><?php esc_html_e( 'Digisaka supports monitoring, reporting, and verification for sustainable practices like AWD and low-carbon rice programs.', 'digisaka-theme' ); ?></p>
 				<div class="ds-sustain-icons">
 					<span>SAT</span><span>AI</span><span>NDVI</span><span>AWD</span><span>CO2</span>
 				</div>
@@ -323,7 +323,7 @@ get_header();
 		<div class="ds-partner">
 			<div class="container ds-partner__inner reveal">
 				<div class="ds-partner__copy">
-					<p class="ds-kicker"><?php esc_html_e( 'Partner With DigiSaka', 'digisaka-theme' ); ?></p>
+					<p class="ds-kicker"><?php esc_html_e( 'Partner With Digisaka', 'digisaka-theme' ); ?></p>
 					<h2><?php esc_html_e( 'Work with us to transform Philippine agriculture.', 'digisaka-theme' ); ?></h2>
 					<p><?php esc_html_e( 'Collaborate with Leads Agri to scale digital tools, climate-smart programs, and field-ready insights for farming communities.', 'digisaka-theme' ); ?></p>
 				</div>
@@ -332,7 +332,7 @@ get_header();
 						<span><img src="<?php echo esc_url( $leads_logo ); ?>" alt="<?php esc_attr_e( 'Leads Agri', 'digisaka-theme' ); ?>"></span>
 						<span><img src="<?php echo esc_url( $leads_agri_logo ); ?>" alt="<?php esc_attr_e( 'Leads Agricultural Products Corporation', 'digisaka-theme' ); ?>"></span>
 					</div>
-					<a class="ds-button ds-button--green ds-partner__cta" href="<?php echo esc_url( home_url( '/partner/' ) ); ?>"><?php esc_html_e( 'Partner With DigiSaka', 'digisaka-theme' ); ?></a>
+					<a class="ds-button ds-button--green ds-partner__cta" href="<?php echo esc_url( home_url( '/partner/' ) ); ?>"><?php esc_html_e( 'Partner With Digisaka', 'digisaka-theme' ); ?></a>
 				</div>
 			</div>
 		</div>
@@ -373,8 +373,8 @@ get_header();
 			<div class="ds-journey__copy">
 				<p class="ds-kicker ds-kicker--light"><?php esc_html_e( 'Start Your Digital Agriculture Journey', 'digisaka-theme' ); ?></p>
 				<h2><?php esc_html_e( 'Bring smarter farm decisions to every field.', 'digisaka-theme' ); ?></h2>
-				<p><?php esc_html_e( 'Use DigiSaka to connect mobile field teams, satellite-backed WebGIS insights, and sustainability programs in one agriculture workflow.', 'digisaka-theme' ); ?></p>
-				<div class="ds-journey__actions" aria-label="<?php esc_attr_e( 'DigiSaka journey actions', 'digisaka-theme' ); ?>">
+				<p><?php esc_html_e( 'Use Digisaka to connect mobile field teams, satellite-backed WebGIS insights, and sustainability programs in one agriculture workflow.', 'digisaka-theme' ); ?></p>
+				<div class="ds-journey__actions" aria-label="<?php esc_attr_e( 'Digisaka journey actions', 'digisaka-theme' ); ?>">
 					<a class="ds-store-pill ds-store-pill--play" href="<?php echo esc_url( $google_play_url ); ?>" target="_blank" rel="noopener noreferrer">
 						<img src="<?php echo esc_url( $asset_uri . '/google_play_store.png' ); ?>" alt="<?php esc_attr_e( 'Get it on Google Play', 'digisaka-theme' ); ?>">
 					</a>
@@ -407,11 +407,11 @@ get_header();
 			<div class="ds-contact__copy reveal">
 				<p class="ds-kicker"><?php esc_html_e( 'Contact Us', 'digisaka-theme' ); ?></p>
 				<h2><?php esc_html_e( 'Let us build the next agriculture workflow together.', 'digisaka-theme' ); ?></h2>
-				<p><?php esc_html_e( 'Reach out for partnership discussions, field implementation support, and sustainability program collaboration with the DigiSaka team.', 'digisaka-theme' ); ?></p>
-				<div class="ds-contact-channels" aria-label="<?php esc_attr_e( 'DigiSaka contact options', 'digisaka-theme' ); ?>">
+				<p><?php esc_html_e( 'Reach out for partnership discussions, field implementation support, and sustainability program collaboration with the Digisaka team.', 'digisaka-theme' ); ?></p>
+				<div class="ds-contact-channels" aria-label="<?php esc_attr_e( 'Digisaka contact options', 'digisaka-theme' ); ?>">
 					<a href="<?php echo esc_url( home_url( '/partner/' ) ); ?>">
 						<span><?php esc_html_e( '01', 'digisaka-theme' ); ?></span>
-						<strong><?php esc_html_e( 'Partner With DigiSaka', 'digisaka-theme' ); ?></strong>
+						<strong><?php esc_html_e( 'Partner With Digisaka', 'digisaka-theme' ); ?></strong>
 						<em><?php esc_html_e( 'For institutions, programs, and agri collaborators', 'digisaka-theme' ); ?></em>
 					</a>
 					<a href="<?php echo esc_url( home_url( '/webgis/' ) ); ?>">
@@ -430,12 +430,12 @@ get_header();
 				<div class="ds-contact-map" aria-hidden="true">
 					<span></span>
 					<div class="ds-contact-map__card">
-						<strong><?php esc_html_e( 'DigiSaka Field Hub', 'digisaka-theme' ); ?></strong>
+						<strong><?php esc_html_e( 'Digisaka Field Hub', 'digisaka-theme' ); ?></strong>
 						<small><?php esc_html_e( 'Batangas, Philippines', 'digisaka-theme' ); ?></small>
 					</div>
 				</div>
 				<div class="ds-contact-summary">
-					<img src="<?php echo esc_url( $brand_logo ); ?>" alt="<?php esc_attr_e( 'DigiSaka', 'digisaka-theme' ); ?>">
+					<img src="<?php echo esc_url( $brand_logo ); ?>" alt="<?php esc_attr_e( 'Digisaka', 'digisaka-theme' ); ?>">
 					<ul>
 						<li><?php esc_html_e( 'Leads Agricultural Products Corporation', 'digisaka-theme' ); ?></li>
 						<li><?php esc_html_e( 'Partnerships, field operations, and digital agriculture support', 'digisaka-theme' ); ?></li>

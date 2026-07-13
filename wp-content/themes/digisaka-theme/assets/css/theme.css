@@ -3531,29 +3531,35 @@ img {
 	grid-template-columns: auto minmax(0, 1fr) auto;
 	align-items: center;
 	gap: 18px;
-	height: 62px;
+	min-height: 62px;
 	padding: 8px 14px;
 }
 
 .ds-main-nav__brand {
 	text-decoration: none;
 	flex-shrink: 0;
-	display: flex;
-	align-items: center;
 }
 
 .ds-main-nav__brand-inner {
 	display: inline-flex;
 	align-items: center;
+	gap: 10px;
+	padding: 8px 16px;
+	border: 1px solid rgba(11, 124, 59, 0.18);
+	border-radius: 20px;
+	background: rgba(255, 255, 255, 0.96);
+	box-shadow: 0 12px 32px rgba(11, 45, 27, 0.1);
+	transition: box-shadow 200ms ease, transform 200ms ease;
 }
 
 .ds-main-nav__brand:hover .ds-main-nav__brand-inner {
+	box-shadow: 0 16px 40px rgba(11, 45, 27, 0.16);
 	transform: translateY(-1px);
 }
 
 .ds-main-nav__brand-inner img {
-	height: 90px;
-	width: auto;
+	width: 42px;
+	height: 42px;
 	object-fit: contain;
 	flex-shrink: 0;
 }
@@ -3970,8 +3976,13 @@ body.home .site-footer__meta {
 		font-size: 16px;
 	}
 
+	.ds-main-nav__brand-inner {
+		padding: 6px 12px;
+	}
+
 	.ds-main-nav__brand-inner img {
-		height: 52px;
+		width: 34px;
+		height: 34px;
 	}
 
 	.ds-platform-grid {
@@ -4023,7 +4034,7 @@ body.home .site-footer__meta {
 	}
 
 	.ds-main-nav__row {
-		height: 52px;
+		min-height: 52px;
 		padding: 6px 10px;
 	}
 
@@ -4031,8 +4042,14 @@ body.home .site-footer__meta {
 		font-size: 14px;
 	}
 
+	.ds-main-nav__brand-inner {
+		padding: 5px 10px;
+		gap: 6px;
+	}
+
 	.ds-main-nav__brand-inner img {
-		height: 44px;
+		width: 28px;
+		height: 28px;
 	}
 
 	.ds-hero__inner {
@@ -10213,5 +10230,112 @@ body.page-template-template-farm-journey .site-footer {
 
 	body.nav-open .ds-main-nav__toggle > span:nth-child(3) {
 		transform: translateY(-6px) rotate(-45deg);
+	}
+}
+
+/* Header logo: the source PNG includes the complete wordmark and a tall transparent canvas. */
+.ds-main-nav__brand-inner {
+	justify-content: center;
+	gap: 0;
+	box-sizing: border-box;
+	width: 188px;
+	height: 58px;
+	overflow: hidden;
+	padding: 6px 10px;
+}
+
+.ds-main-nav__brand-inner img {
+	max-width: none;
+	width: 230px;
+	height: 44px;
+	object-fit: cover;
+	object-position: center 38%;
+	flex-shrink: 0;
+}
+
+@media (max-width: 1180px) {
+	.ds-main-nav__brand-inner {
+		width: 168px;
+		height: 50px;
+		padding: 5px 9px;
+	}
+
+	.ds-main-nav__brand-inner img {
+		width: 205px;
+		height: 40px;
+	}
+}
+
+@media (max-width: 640px) {
+	.ds-main-nav__brand-inner {
+		width: 150px;
+		height: 44px;
+		padding: 4px 8px;
+	}
+
+	.ds-main-nav__brand-inner img {
+		width: 185px;
+		height: 36px;
+	}
+}
+
+/* Borderless brand presentation in the header and footer. */
+.ds-main-nav__brand-inner,
+.ds-main-nav__brand:hover .ds-main-nav__brand-inner {
+	border: 0;
+	background: transparent;
+	box-shadow: none;
+	backdrop-filter: none;
+}
+
+.site-footer--digisaka .site-footer__logo-link {
+	justify-content: center;
+	box-sizing: border-box;
+	width: 188px;
+	height: 58px;
+	overflow: hidden;
+	gap: 0;
+	padding: 6px 10px;
+	border: 0;
+	background: rgba(255, 255, 255, 0.96);
+	box-shadow: none;
+}
+
+.site-footer--digisaka .site-footer__logo-link:hover {
+	box-shadow: none;
+}
+
+.site-footer--digisaka .site-footer__logo,
+body.home .site-footer--digisaka .site-footer__logo {
+	max-width: none;
+	width: 230px;
+	height: 44px;
+	margin: 0;
+	object-fit: cover;
+	object-position: center 38%;
+	flex-shrink: 0;
+}
+
+.site-footer__store-btn,
+.site-footer__store-btn:hover {
+	min-height: 0;
+	padding: 0;
+	border: 0;
+	background: transparent;
+	box-shadow: none;
+	backdrop-filter: none;
+}
+
+@media (max-width: 640px) {
+	.site-footer--digisaka .site-footer__logo-link {
+		width: 168px;
+		height: 50px;
+		padding: 5px 9px;
+	}
+
+	.site-footer--digisaka .site-footer__logo,
+	body.home .site-footer--digisaka .site-footer__logo {
+		width: 205px;
+		height: 40px;
 	}
 }

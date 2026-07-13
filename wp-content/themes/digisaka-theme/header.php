@@ -33,9 +33,9 @@ $google_play_url = 'https://play.google.com/store/apps/details?id=com.leadsagri.
 
 <header class="ds-main-nav<?php echo $is_front ? ' ds-main-nav--home' : ' ds-main-nav--inner'; ?>" data-digisaka-header>
 	<div class="container ds-main-nav__row">
-		<a class="ds-main-nav__brand" href="<?php echo esc_url( home_url( '/' ) ); ?>" aria-label="<?php esc_attr_e( 'DigiSaka home', 'digisaka-theme' ); ?>">
+		<a class="ds-main-nav__brand" href="<?php echo esc_url( home_url( '/' ) ); ?>" aria-label="<?php esc_attr_e( 'Digisaka home', 'digisaka-theme' ); ?>">
 			<span class="ds-main-nav__brand-inner">
-				<img src="<?php echo esc_url( $brand_logo ); ?>" alt="<?php esc_attr_e( 'DigiSaka', 'digisaka-theme' ); ?>">
+				<img src="<?php echo esc_url( $brand_logo ); ?>" alt="<?php esc_attr_e( 'Digisaka', 'digisaka-theme' ); ?>">
 			</span>
 		</a>
 		<nav id="mobile-menu" class="ds-main-nav__links" aria-label="<?php esc_attr_e( 'Primary navigation', 'digisaka-theme' ); ?>" data-primary-nav>

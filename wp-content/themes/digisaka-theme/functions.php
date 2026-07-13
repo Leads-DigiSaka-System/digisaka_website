@@ -9,7 +9,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'DIGISAKA_THEME_VERSION', '1.0.30' );
+define( 'DIGISAKA_THEME_VERSION', '1.0.34' );
 
 require_once get_template_directory() . '/inc/template-tags.php';
 require_once get_template_directory() . '/inc/site-content.php';
@@ -99,7 +99,7 @@ function digisaka_theme_customize_register( $wp_customize ) {
 	) );
 
 	$fields = array(
-		'hero_eyebrow'     => array( 'DigiSaka Platform', 'Hero eyebrow' ),
+		'hero_eyebrow'     => array( 'Digisaka Platform', 'Hero eyebrow' ),
 		'hero_title'       => array( 'Smart agriculture, connected from field to market.', 'Hero title' ),
 		'hero_description' => array( 'A modern operating layer for farm data, market prices, buyback workflows, traceability, advisories, and field teams.', 'Hero description' ),
 		'primary_cta'      => array( 'Explore the Platform', 'Primary CTA label' ),

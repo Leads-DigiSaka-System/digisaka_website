@@ -3531,7 +3531,7 @@ img {
 	grid-template-columns: auto minmax(0, 1fr) auto;
 	align-items: center;
 	gap: 18px;
-	min-height: 62px;
+	height: 62px;
 	padding: 8px 14px;
 }
 
@@ -4023,7 +4023,7 @@ body.home .site-footer__meta {
 	}
 
 	.ds-main-nav__row {
-		min-height: 52px;
+		height: 52px;
 		padding: 6px 10px;
 	}
 

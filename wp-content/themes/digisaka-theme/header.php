@@ -36,7 +36,6 @@ $google_play_url = 'https://play.google.com/store/apps/details?id=com.leadsagri.
 		<a class="ds-main-nav__brand" href="<?php echo esc_url( home_url( '/' ) ); ?>" aria-label="<?php esc_attr_e( 'DigiSaka home', 'digisaka-theme' ); ?>">
 			<span class="ds-main-nav__brand-inner">
 				<img src="<?php echo esc_url( $brand_logo ); ?>" alt="<?php esc_attr_e( 'DigiSaka', 'digisaka-theme' ); ?>">
-				<span class="ds-main-nav__wordmark"><?php esc_html_e( 'Digisaka', 'digisaka-theme' ); ?></span>
 			</span>
 		</a>
 		<nav id="mobile-menu" class="ds-main-nav__links" aria-label="<?php esc_attr_e( 'Primary navigation', 'digisaka-theme' ); ?>" data-primary-nav>

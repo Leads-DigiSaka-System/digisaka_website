@@ -3558,8 +3558,8 @@ img {
 }
 
 .ds-main-nav__brand-inner img {
-	width: 56px;
-	height: 56px;
+	width: 100px;
+	height: 100px;
 	object-fit: contain;
 	flex-shrink: 0;
 }
@@ -3981,8 +3981,8 @@ body.home .site-footer__meta {
 	}
 
 	.ds-main-nav__brand-inner img {
-		width: 44px;
-		height: 44px;
+		width: 72px;
+		height: 72px;
 	}
 
 	.ds-platform-grid {
@@ -4048,8 +4048,8 @@ body.home .site-footer__meta {
 	}
 
 	.ds-main-nav__brand-inner img {
-		width: 36px;
-		height: 36px;
+		width: 56px;
+		height: 56px;
 	}
 
 	.ds-hero__inner {
